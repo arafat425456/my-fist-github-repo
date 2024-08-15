@@ -119,5 +119,9 @@ main{
     justify-content: space-around;
 }
 .about-info{
-    text-align: center;
+    text-align: center
+;
+}
+#What-i-do-description{
+    padding: 30px 150px;
 }
